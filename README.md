@@ -2,6 +2,8 @@
 
 O **Hidrata Aí** é um aplicativo que ajuda os usuários a monitorar sua ingestão diária de água e a garantir que estejam sempre hidratados. O app incentiva a criação de hábitos saudáveis através de lembretes periódicos e um contador personalizado de água.
 
+Este aplicativo foi criado inicialmente como parte de um projeto de extensão da **faculdade Estácio de Sá**, com o objetivo de ajudar uma amiga a lembrar-se de beber água regularmente. No entanto, o **Hidrata Aí** pode ser útil para qualquer pessoa e está aberto à comunidade em geral!
+
 ## Funcionalidades
 
 - **Contador de Água**: Adicione a quantidade de água ingerida ao longo do dia. O aplicativo permite selecionar opções predefinidas (300ml, 500ml, 1 litro) ou inserir manualmente qualquer quantidade desejada.
@@ -22,5 +24,4 @@ O **Hidrata Aí** é um aplicativo que ajuda os usuários a monitorar sua ingest
 2. **Lembretes Matinais**: Todas as manhãs, o aplicativo enviará uma notificação lembrando de se hidratar.
 3. **Verificação Noturna**: Caso o usuário não tenha atingido a meta de 2 litros ao final do dia, uma notificação será enviada sugerindo beber mais água.
 4. **Interface Visual**: O aplicativo conta com uma imagem motivacional que incentiva o consumo de água.
-
 
