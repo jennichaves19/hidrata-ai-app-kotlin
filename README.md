@@ -4,6 +4,9 @@ O **Hidrata Aí** é um aplicativo que ajuda os usuários a monitorar sua ingest
 
 Este aplicativo foi criado inicialmente como parte de um projeto de extensão da **faculdade Estácio de Sá**, com o objetivo de ajudar uma amiga a lembrar-se de beber água regularmente. No entanto, o **Hidrata Aí** pode ser útil para qualquer pessoa e está aberto à comunidade em geral!
 
+https://github.com/user-attachments/assets/25bed03d-057c-42fc-9869-3d2b7acc0e40
+![tela inicial do app](https://github.com/user-attachments/assets/25bed03d-057c-42fc-9869-3d2b7acc0e40)
+
 ## Funcionalidades
 
 - **Contador de Água**: Adicione a quantidade de água ingerida ao longo do dia. O aplicativo permite selecionar opções predefinidas (300ml, 500ml, 1 litro) ou inserir manualmente qualquer quantidade desejada.
